@@ -1,0 +1,13 @@
+To play the game download Single Player file and click game.exe,
+	IF YOU DELETE ANYTHING OTHER THAN THIS DOCUMENT THE GAME WONT WORK
+// THIS IS THE 1V1 VERSION
+
+
+			Controls
+		Player-1 : w to move up
+	  		   s to move down
+
+		Player-2 : up-arrow to move up
+	  		   down-arrow to move down
+
+
