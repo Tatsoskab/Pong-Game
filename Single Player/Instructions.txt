@@ -1,0 +1,2 @@
+To play the game click on game.exe 
+// THIS IS THE SINGLE PLAYER VERSION
