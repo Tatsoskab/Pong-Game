@@ -1,4 +1,4 @@
-To play the game download Single Player file and click game.exe,
+To play the game download Two Player file and click game.exe,
 	IF YOU DELETE ANYTHING OTHER THAN THIS DOCUMENT THE GAME WONT WORK
 // THIS IS THE 1V1 VERSION
 
