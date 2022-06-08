@@ -1,2 +1,5 @@
 To play the game click on game.exe 
 // THIS IS THE SINGLE PLAYER VERSION
+            Controls
+            W or up-arrow to move up
+            S or down-arrow to move down
